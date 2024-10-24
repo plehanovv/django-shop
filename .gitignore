@@ -1,12 +1,9 @@
 *.pyc
 __pycache__/
 db.sqlite3
-/media/
+media/
 .env
 *.log
 /static/
-keys
 *.json
-cert.crt
-cert.key
 .idea/
