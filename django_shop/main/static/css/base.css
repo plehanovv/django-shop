@@ -128,3 +128,49 @@ h5 {
     border: 1px solid #000000;
 }
 
+.detail-img {
+    width: 650px;
+    height: 650px;
+}
+
+.detail-product {
+    margin-top: 80px;
+}
+
+.detail-description {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.detail-description p {
+    margin-top: 30px;
+    max-width: 700px;
+}
+
+.detail-description h2 span {
+    font-size: 56px;
+}
+
+.cart-discount {
+    margin-top: -1px;
+}
+
+.line {
+    opacity: 0.7;
+    text-decoration: line-through;
+    font-weight: 300;
+}
+
+.cart-btn {
+    width: 180px;
+    height: 50px;
+    border: 1px solid #00000027;
+    border-radius: 5px;
+    transition: all 0.4s ease;
+    z-index: 2;
+    margin-top: 20px;
+}
+
+.cart-btn:hover {
+    border: 1px solid #000000;
+}
